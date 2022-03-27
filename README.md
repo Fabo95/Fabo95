@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabo95
-- 👀 I’m interested in learnings.
+- 👀 I’m interested coding.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on new projects.
 
